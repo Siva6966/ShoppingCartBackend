@@ -83,7 +83,10 @@ Clean UI/UX and real-world shopping cart flow.
 
 Deployable small-scale e-commerce prototype.
 
-image image image
+<img width="1479" height="832" alt="image" src="https://github.com/user-attachments/assets/dd6230a0-49f3-4a85-a95f-36b244b46de1" />
+<img width="1513" height="819" alt="image" src="https://github.com/user-attachments/assets/e15c9db9-f6b9-47f6-934e-7b944c74f80f" />
+
+
 How to run (two terminals)
 
 Backend
